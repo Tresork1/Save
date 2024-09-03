@@ -17,7 +17,7 @@ This project is a simple savings tracker designed to help you manage your saving
    - To clone, use the command: `git clone <repository-url>`
 
 2. **Open the HTML File**:
-   - Open the `trial.html` file in a web browser.
+   - Open the `Trial.html` file in a web browser.
 
 ## Usage
 1. **Login**:
